@@ -1,0 +1,20 @@
+[
+	{
+		"nombre": "Nombre 1",
+		"raza": "Nombre de la raza 1",
+		"edad": "2 años",
+		"image": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/131928-mxiccwtarv-1575034997.jpg"
+	},
+	{
+		"nombre": "Nombre 2",
+		"raza": "Nombre de la raza 2",
+		"edad": "3 años",
+		"image": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/131928-mxiccwtarv-1575034997.jpg"
+	},
+	{
+		"nombre": "Nombre 3",
+		"raza": "Nombre de la raza 3",
+		"edad": "4 años",
+		"image": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/131928-mxiccwtarv-1575034997.jpg"
+	}
+]
